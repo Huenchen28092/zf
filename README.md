@@ -1,9 +1,10 @@
 # 声明 
 源码只供学习使用，如用于商业活动与本人无关，请勿将系统用于非法业务
 
-## golangpay 聚合支付系统 四方支付系统 四方源码 golang源码 第四方支付平台 三方平台，uid平台，页游平台
 
-go语言支付系统在线体验 演示地址：
+go语言支付系统在线体验 
+
+演示地址：
 
 运营端：https://homea.golangpay.com 
 
@@ -31,6 +32,8 @@ go语言支付系统演示地址：
 商户端：http://sh.golangpay.com 
 
 帐号：mchtest 登录密码：mch123123
+
+## 系统介绍
 
 系统均采用golangpay语言开发，会golangpay的技术人员可以自行二次开发
 
